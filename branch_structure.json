@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "qa/cohort-segmentation-Josie123-Dev"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "qa/cohort-segmentation-Josie123-Dev": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "qa/cohort-segmentation-Josie123-Dev"
+  ]
+}
